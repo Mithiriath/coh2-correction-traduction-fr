@@ -10,6 +10,7 @@ Télécharger
 -----------
 
 Vous pouvez télécharger le fichier [depuis github](https://github.com/Mithiriath/coh2-correction-traduction-fr/releases).
+
 La procédure pour remplacer le fichier du jeu est expliquer sur le [forum](https://www.cohfrance.org/topic/7623-correction-de-la-traduction-française-du-jeu-coh2/).
 
 Contribuer
@@ -17,7 +18,7 @@ Contribuer
 
 Deux méthodes pour signaler une erreur :
 - Passer par Github ;
-- Passer par le [serveur Discord de CoH France](https://www.cohfrance.org/discord/), salon *correction_traduction* ;
+- Passer par le [serveur Discord de CoH France](https://www.cohfrance.org/discord/), salon `#correction_traduction` ;
 
 Liens
 -----
