@@ -1,14 +1,17 @@
 # Company of Heroes 2 - Correction de la traduction française
 
-Qu'est-ce que c'est ?
----------------------
+Projet
+------
 
-Explication du projet sur le [forum](https://www.cohfrance.org/topic/7623-correction-de-la-traduction-française-du-jeu-coh2/).
+Projet de correction du fichier contenant tous les textes de la version française du jeu Company of Heroes 2.
+Plus d'explication sur le [forum](https://www.cohfrance.org/topic/7623-correction-de-la-traduction-française-du-jeu-coh2/).
 
 Contribuer
 ----------
 
-Pour signaler une erreur, merci de passer par le [serveur Discord de CoH France](https://www.cohfrance.org/discord/), salon *correction_traduction*.
+Deux méthodes pour signaler une erreur :
+- Passer par Github ;
+- Passer par le [serveur Discord de CoH France](https://www.cohfrance.org/discord/), salon *correction_traduction* ;
 
 Liens
 -----
