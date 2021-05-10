@@ -10,5 +10,5 @@ Pour signaler une erreur, merci de passer par le [serveur Discord de CoH France]
 Liens
 -----
 
-- Forum : https://www.cohfrance.org
+- Forum : https://www.cohfrance.org/topic/7623-correction-de-la-traduction-française-du-jeu-coh2/
 - Discord : https://www.cohfrance.org/discord/
