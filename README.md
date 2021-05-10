@@ -11,7 +11,7 @@ Contribuer
 
 Deux méthodes pour signaler une erreur :
 - Passer par Github ;
-- Passer par le [serveur Discord de CoH France](https://www.cohfrance.org/discord/), salon *correction_traduction*;
+- Passer par le [serveur Discord de CoH France](https://www.cohfrance.org/discord/), salon *correction_traduction* ;
 
 Liens
 -----
