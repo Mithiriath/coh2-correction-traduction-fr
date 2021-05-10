@@ -6,6 +6,12 @@ Projet
 Projet de correction du fichier contenant tous les textes de la version française du jeu Company of Heroes 2.
 Plus d'explication sur le [forum](https://www.cohfrance.org/topic/7623-correction-de-la-traduction-française-du-jeu-coh2/).
 
+Télécharger
+-----------
+
+Vous pouvez télécharger le fichier [depuis github](https://github.com/Mithiriath/coh2-correction-traduction-fr/releases).
+La procédure pour remplacer le fichier du jeu est expliquer sur le [forum](https://www.cohfrance.org/topic/7623-correction-de-la-traduction-française-du-jeu-coh2/).
+
 Contribuer
 ----------
 
