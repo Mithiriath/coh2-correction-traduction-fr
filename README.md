@@ -9,7 +9,9 @@ Plus d'explication sur le [forum](https://www.cohfrance.org/topic/7623-correctio
 Contribuer
 ----------
 
-Pour signaler une erreur, merci de passer par le [serveur Discord de CoH France](https://www.cohfrance.org/discord/), salon *correction_traduction*.
+Deux méthodes pour signaler une erreur :
+- Passer par Github ;
+- Passer par le [serveur Discord de CoH France](https://www.cohfrance.org/discord/), salon *correction_traduction*;
 
 Liens
 -----
