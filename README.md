@@ -11,7 +11,7 @@ Télécharger
 
 Vous pouvez télécharger le fichier [depuis github](https://github.com/Mithiriath/coh2-correction-traduction-fr/releases).
 
-La procédure pour remplacer le fichier du jeu est expliquer sur le [forum](https://www.cohfrance.org/topic/7623-correction-de-la-traduction-française-du-jeu-coh2/).
+La procédure pour remplacer le fichier du jeu est expliquée sur le [forum](https://www.cohfrance.org/topic/7623-correction-de-la-traduction-française-du-jeu-coh2/).
 
 Contribuer
 ----------
